@@ -1,0 +1,11 @@
+{
+  "name": "AW23",
+  "version": "1.0.0",
+  "description": "Task 8 in MA2",
+  "main": "index.js",
+  "author": "Sven Ingar Frantzen",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
